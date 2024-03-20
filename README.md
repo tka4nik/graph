@@ -4,7 +4,7 @@ by: Tkachenko Nikita
 
 ---
 
-### Describtion
+### Description
 
 A template implementation of the Graph class in C++. Provides user with an interface for interacting with nodes and edges, and more.
 
