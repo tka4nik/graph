@@ -1,10 +1,6 @@
 
-# **Graph:** University CS project №3 
+# **Custom Graph class**
 by: Tkachenko Nikita
-
----
-
-![pipeline status](https://git.miem.hse.ru/natkachenko_1/lr3_tkachenko/badges/master/pipeline.svg) | [documentation](https://tka4nik.gitlab.io/lr3_documentation/) |
 
 ---
 
@@ -18,9 +14,6 @@ A template implementation of the Graph class in C++. Provides user with an inter
 * `degree_in` and `degree_out` - for understanding how different nodes connect with each other
 * Automatic Unit-Testing
 * Detailed documentation
-
-### Dependencies
-* `google_tests` [library](https://github.com/google/googletest.git)
 	
 
 ### Installation
@@ -28,10 +21,5 @@ A template implementation of the Graph class in C++. Provides user with an inter
 You should have `git` and a compiler for C++/17 installed
 
 ```
-git clone https://git.miem.hse.ru/natkachenko_1/lr3_tkachenko.git ./graph
+git clone https://github.com/tka4nik/Graph.git ./graph
 ```
-
-#### Team
-
-- [Миколаенко Вадим Витальевич](https://www.hse.ru/staff/vadim?ysclid=lduu21spa3721285805) - project supervisor
-- Tkachenko Nikita Andreevich - programmer
